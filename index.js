@@ -10,4 +10,7 @@ function logShout (string) {
   
 }
 
-function 
+function logWhisper (string) {
+  
+}
+
